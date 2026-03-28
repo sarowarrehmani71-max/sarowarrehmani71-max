@@ -13,6 +13,10 @@ Email Me 👉 ✉️ **sarowarrehmani71@gmail.com** For Collaboration/Project or
 - 📫 **How to reach me:** sarowarrehamni71@gmail.com
 - 😄 **Pronouns:** Sarowar
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarowar_71) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarowarrehmani71@gmail.com) 
 
@@ -28,9 +32,6 @@ Email Me 👉 ✉️ **sarowarrehmani71@gmail.com** For Collaboration/Project or
 ![](https://github-readme-stats.vercel.app/api?username=sarowarrehmani71-max&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sarowarrehmani71-max&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarowarrehmani71-max&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarowarrehmani71-max&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
