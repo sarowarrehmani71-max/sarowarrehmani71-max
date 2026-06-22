@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **sarowarrehmani71@gmail.com** For Collaboration/Project or
 - 🎓 **2nd Year Computer Science Engineering (CSE) student
 - 🚀 **Currently exploring software development and core computer science concepts
 - 🌱 **I’m currently learning:**
-- 🌐 Web Development: HTML, CSS, JavaScript (if applicable)
+- 🌐 Web Development: HTML, CSS, JavaScript 
 - 📊 Data Structures & Algorithms (DSA) enthusiast
 - 🗄️ Basics of Database Management Systems (DBMS)
 - 💬 **Ask me about:** Collaboration, Tech Support
